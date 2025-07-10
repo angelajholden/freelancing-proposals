@@ -47,7 +47,8 @@ All filenames reflect the date the proposal was sent (YYYYMMDD). They're present
 
 ## 📄 Want to use this format?
 
-📄 **[Google Docs Proposal Template](https://docs.google.com/document/d/1hdwWb-17HA_6tVeH0DszZFFxNRnxv2XImYtuAMKrAEY/edit?usp=sharing)**  
+📄 **[Google Docs Proposal Template](https://docs.google.com/document/d/1hdwWb-17HA_6tVeH0DszZFFxNRnxv2XImYtuAMKrAEY/edit?usp=sharing)**
+
 Use this as a starting point to create your own proposals. It’s clean, easy to customize, and doesn’t require design software.
 
 ---
