@@ -30,7 +30,7 @@ All filenames reflect the date the proposal was sent (YYYYMMDD). They're present
 | 20151102_proposal.pdf | WordPress site w/ course functionality | Early over-detailed proposal     |
 | 20160718_proposal.pdf | WordPress migration + redesign         | 2-tiered option structure        |
 | 20160801_proposal.pdf | Semi-custom WP build                   | Includes branding                |
-| 20160802_proposal.pdf | Full custom WP site                    | Includes content + SEO           |
+| 20160802_proposal.pdf | Semi-custom WP build                   | Includes content + SEO           |
 | 20160810_proposal.pdf | SEO + optimization audit               | Straightforward strategy doc     |
 | 20161117_proposal.pdf | Membership site                        | s2Member + podcast integration   |
 | 20170302_proposal.pdf | eCommerce + membership                 | WooCommerce, Zapier, Stripe      |
