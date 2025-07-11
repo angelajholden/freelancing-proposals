@@ -53,6 +53,8 @@ Use this as a starting point to create your own proposals. It’s clean, easy to
 
 ---
 
-## ✍️ License & Attribution
+## 📜 License
 
-These documents are for educational use only. Please do not reuse or adapt them for client work without proper attribution. This archive is meant to help developers and freelancers understand real-world project scoping — not to be copied and reused directly.
+This project is released as an open-source, free-to-use freelance proposal archive under the [MIT License](LICENSE.md). You are welcome to **use, modify, and distribute** the content and format for personal or commercial projects, with or without attribution.
+
+I only ask that you don’t directly copy or resell these proposals as-is — they’re meant for education, not duplication.
