@@ -1,6 +1,6 @@
 # Freelance Proposal Archive (2015–2018)
 
-This is a collection of 15 real proposals I wrote during my first three years as a freelance frontend developer. These are actual documents I sent to clients — redacted and anonymized, but otherwise untouched.
+This is a collection of 15 real proposals I wrote during three years (2015 - 2018) as a freelance frontend developer. These are actual documents I sent to clients — redacted and anonymized, but otherwise untouched.
 
 🧾 These proposals cover a wide range of client projects:
 
